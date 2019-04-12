@@ -14,3 +14,10 @@ http://www.freevpn.be/accounts
 http://www.freevpn.im/accounts
 
 http://www.freevpn.co.uk/accounts
+
+
+# Dependencies #
+
+    python3-bs4
+    urllib3
+    re
